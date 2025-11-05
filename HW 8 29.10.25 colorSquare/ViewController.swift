@@ -6,7 +6,7 @@ class ViewController: UIViewController {
     var currentX: CGFloat = 0
     var currentY: CGFloat = 0
     
-    let squareSize: CGFloat = 60
+    let squareSize: CGFloat = 50
     
     @IBOutlet weak var pushMeButton: UIButton!
     
